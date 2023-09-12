@@ -1,4 +1,4 @@
-let lancementOk = false;
+
 let niveauDeCarburant = 17000;
 let statutEquipage  = true;
 let computerStatus = 'vert';
